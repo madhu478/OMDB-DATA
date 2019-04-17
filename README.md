@@ -12,4 +12,4 @@ Then execute the following command to build an Image.
      # docker build -t <reponame>:<tagname> .
 
 Executing the program by running docker container to query a movie.
-  # docker run -it <imagename>
+  docker run -it <imagename>
